@@ -1,8 +1,0 @@
-name: VCAbilityMaker
-author: ChiLieutenant
-version: 1.0
-api-version: 1.16
-main: com.vantahub.chilieutenant.abilitymaker.main
-prefix: VCAbilityMaker
-description: A plugin made by ChiLieutenant
-commands:
